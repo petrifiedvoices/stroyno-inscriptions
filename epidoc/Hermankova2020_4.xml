@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Votive decorative plaque by/to Pytnios</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority/>
+                <idno type="filename">Hermankova 2020, 4</idno>
+                <date from="2020-02-18"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Stroyno Archaeological Project, now stored at Regional Historical Museum, Yambol, Bulagria.</repository>
+                        <idno>SF15_218</idno>
+                    </msIdentifier>           
+                    <physDesc>
+                        <objectDesc>
+                              <supportDesc>
+                                <support>
+                                    <p>The <material>terracotta</material> <objectType>plaque</objectType> made from red clay without any slip and preserved from 50 % with dimensions (m) <dimensions unit="m">
+                                         <width>0.06</width> <height>0.04</height> <depth>0.01</depth>
+                                    </dimensions>  The A side of the terracotta plaque is decorated with a figural scene in shallow mould-made relief. Although the lower part of the relief is missing, the scene is depicting a deity with long hair, wearing a polos hat, standing in the middle of a Doric temple, accompanied by bucranion on her/his left side and what appears to be an upper part of a club on the right side. In the middle of the temple’s pediment is located a round object, possibly the sun or a round shield.
+                                      </p>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout> <rs type="execution" key="stilo">Inscribed</rs> into the middle of the B side of a small terracotta plaque.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Handwritten when the clay was still wet, uneven depth of the letters. The initial strokes of the letter Π are 1-2 mm deeper than the rest of the text. 
+                                Letter height <height>0.008</height> m. 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Unknown</origPlace>
+                            <origDate evidence="conjecture" notBefore="0101" notAfter="0299">AD 101 - AD 299 </origDate>
+                        </origin>
+                        <provenance type="found"> <placeName ref="42.286500, 26.695216">Stroyno-Yurta</placeName>. Found during the Stroyno Archaeological Project, season 2015, robber’s trench (RT) soil [SU 001] in the Room B
+                        </provenance>
+                        <provenance type="autopsy">Editor present at the excavation in the field.</provenance>
+                        <!--<provenance type="observed">Regional Historical Museum Yambol-->
+                        <!--</provenance>-->
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+       <facsimile>
+ <surface n="i">
+  <desc>Side A with the temple relief.</desc>
+ <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_A.tif!">
+   <desc>Photograph (2015)</desc>
+  </graphic>
+  <desc>Side B with the inscription.</desc>   
+  <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_B.tif">
+   <desc>Photograph (2015)</desc>
+  </graphic>
+ </surface>
+ <surface>
+  <desc>3D image of the A side</desc>
+  <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_C.tif">
+   <desc>3D photo, Tibor Lieskovsky (2015)</desc>
+  </graphic>
+ </surface>
+ <surface>
+  <desc>3D image of the B side</desc>
+  <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_D.tif">
+   <desc>3D photo, Tibor Lieskovsky (2015)</desc>
+  </graphic>
+ </surface>
+</facsimile>
+  <text>
+        <body>
+            <div type="edition" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><persName type="other" cert="medium"><name>Πυτνιου</name></persName>
+                   </ab>
+            </div>
+            <div type="apparatus">
+                <app loc="1">
+                <note>Υ or Ι: Based on autopsy, the upper stroke of  Υ might be continuation of the top stroke from the previous letter Π and then the second letter would be Ι (low certainty).  After examining the photograph, N. Sharankov suggested letter Η instead with the top right stroke missing.</note>
+            </app>
+            </div>
+            <div type="translation">
+                <p>[Dedicated to / by] Pytnios.</p>
+            </div>
+            <div type="commentary">
+                <p>The male personal name Pytnios in genitive case, typical for dedications either made by Pytnios, or to a deity with an epithet Pytnios. The personal name Pytnios or Pitnios has not been attested anywhere else, but the suffixes Pyt- and especially Pyth- are relatively common in the Greek-speaking world, e.g. Apollo Pythios from Delphi  (Fraser – Matthews 2005, 295) </p>
+            </div>
+            <div type="bibliography">
+                <p>Editio princeps. 
+                </p>
+            </div>
+        </body>
+    </text>
+ </TEI>
