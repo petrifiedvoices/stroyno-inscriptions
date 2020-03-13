@@ -10,9 +10,14 @@ Greek and Latin inscriptions; epigraphy; Thrace; regional networks; Kabyle; Bulg
 
 ------------------
 Digital Supplement:
+
 1.
+
 2.
+
 3.
-4.[Dedication to/by Pytnios](https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/html/Hermankova2020_4.html)
+
+4. [Dedication to/by Pytnios](https://petrifiedvoices.github.io/stroyno_inscriptions/Hermankova2020_4.html)
+
 5.
 
