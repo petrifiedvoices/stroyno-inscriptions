@@ -7,17 +7,21 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Votive decorative plaque by/to Pytnios</title>
+                <title>Votive plaque by/to Pytnios</title>
             </titleStmt>
             <publicationStmt>
-                <authority/>
+                <authority>Petra Hermankova</authority>
                 <idno type="filename">Hermankova 2020, 4</idno>
                 <date from="2020-02-18"/>
+                <availability> 
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
+                    </licence>
+                </availability> 
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Stroyno Archaeological Project, now stored at Regional Historical Museum, Yambol, Bulagria.</repository>
+                        <repository>Stroyno Archaeological Project, now stored at Regional Historical Museum, Yambol, Bulgaria.</repository>
                         <idno>SF15_218</idno>
                     </msIdentifier>           
                     <physDesc>
@@ -42,51 +46,83 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Unknown</origPlace>
+                            <origPlace>Unknown
+                            <placeName type="provinceItalicRegion" ref="http://www.trismegistos.org/place/000014">Thracia</placeName>
+                            </origPlace>
                             <origDate evidence="conjecture" notBefore="0101" notAfter="0299">AD 101 - AD 299 </origDate>
                         </origin>
-                        <provenance type="found"> <placeName ref="42.286500, 26.695216">Stroyno-Yurta</placeName>. Found during the Stroyno Archaeological Project, season 2015, robber’s trench (RT) soil [SU 001] in the Room B
+                        <provenance type="found">
+                            <placeName ref="42.286500, 26.695216">Yurta-Stroyno</placeName>,
+                            <placeName ref="http://www.geonames.org/726707">Stroyno</placeName>,
+                             <placeName type="modern_region" ref="http://www.geonames.org/">Jambol</placeName>,
+                            <placeName type="modernCountry" ref="http://www.geonames.org/countries/bg/">Bulgaria</placeName>,
+                                 Found during the Stroyno Archaeological Project, season 2015, robber’s trench soil [SU_001] in the Room B.
                         </provenance>
-                        <provenance type="autopsy">Editor present at the excavation in the field.</provenance>
-                        <!--<provenance type="observed">Regional Historical Museum Yambol-->
-                        <!--</provenance>-->
+                        <provenance type="autopsy">Editor present in the field during excavation.</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation> Stroyno Archaeological Project, P. Hermankova, 2015, autopsy. 
+            </creation>
+            <textClass>
+                 <keywords>
+            <term ref="http://www.eagle-network.eu/voc/typeins/lod/83">votive inscription</term>
+        </keywords>
+    </textClass>
+<langUsage>
+    <language ident="lat">Latin</language>
+    <language ident="en">English</language>
+</langUsage>
+</profileDesc>
+        <revisionDesc>
+            <change when="2020-03-13" who="Hermankova"> First edition.</change>
+        </revisionDesc>
     </teiHeader>
-       <facsimile>
- <surface n="i">
-  <desc>Side A with the temple relief.</desc>
- <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_A.tif!">
-   <desc>Photograph (2015)</desc>
-  </graphic>
-  <desc>Side B with the inscription.</desc>   
-  <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_B.tif">
-   <desc>Photograph (2015)</desc>
-  </graphic>
- </surface>
- <surface>
-  <desc>3D image of the A side</desc>
-  <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_C.tif">
-   <desc>3D photo, Tibor Lieskovsky (2015)</desc>
-  </graphic>
- </surface>
- <surface>
-  <desc>3D image of the B side</desc>
-  <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_D.tif">
-   <desc>3D photo, Tibor Lieskovsky (2015)</desc>
-  </graphic>
- </surface>
-</facsimile>
-  <text>
+     <facsimile>
+        <surface n="i">
+            <desc>Side A with the temple relief.</desc>
+            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_A.tif!">
+            <desc>Photograph (2015)</desc>
+            </graphic>
+            <desc>Side B with the inscription.</desc>   
+            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_B.tif">
+             <desc>Photograph (2015)</desc>
+            </graphic>
+            </surface>
+             <surface>
+             <desc>3D image of the A side</desc>
+            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_C.tif">
+             <desc>3D photo, Tibor Lieskovsky (2015)</desc>
+            </graphic>
+            </surface>
+            <surface>
+            <desc>3D image of the B side</desc>
+            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_D.tif">
+             <desc>3D photo, Tibor Lieskovsky (2015)</desc>
+             </graphic>
+        </surface>
+     </facsimile>
+    
+ <text>
         <body>
             <div type="edition" xml:lang="grc">
                 <ab>
                     <lb n="1"/><persName type="other" cert="medium"><name>Πυτνιου</name></persName>
                    </ab>
             </div>
-            <div type="apparatus">
+            <div type="apparatus"> 
                 <app loc="1">
                 <note>Υ or Ι: Based on autopsy, the upper stroke of  Υ might be continuation of the top stroke from the previous letter Π and then the second letter would be Ι (low certainty).  After examining the photograph, N. Sharankov suggested letter Η instead with the top right stroke missing.</note>
             </app>
@@ -98,7 +134,7 @@
                 <p>The male personal name Pytnios in genitive case, typical for dedications either made by Pytnios, or to a deity with an epithet Pytnios. The personal name Pytnios or Pitnios has not been attested anywhere else, but the suffixes Pyt- and especially Pyth- are relatively common in the Greek-speaking world, e.g. Apollo Pythios from Delphi  (Fraser – Matthews 2005, 295) </p>
             </div>
             <div type="bibliography">
-                <p>Editio princeps. 
+                <p>Editio princeps.  Hermankova 2020, no. 4
                 </p>
             </div>
         </body>
