@@ -1,8 +1,3 @@
-title: "Yurta-Stroyno Epigraphic finds"
-description: "Digital Supplement of the article The epigraphic finds from Yurta-Stroyno in regional context, containing Epidoc files"
------
-
-
 
 # The epigraphic finds from Yurta-Stroyno in regional context - digital supplement
 
@@ -19,18 +14,20 @@ Greek and Latin inscriptions; epigraphy; Thrace; regional networks; Kabyle; Bulg
 
 Individual inscriptions menationed in the text:
 
+1. [Boyanov 2007, no. 1](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Boyanov2007_1.html)
+
 1. [ccc]()
 
 2. [vvv]()
 
 3. [xxx]()
 
-4. [Dedication to/by Pytnios](https://petrifiedvoices.github.io/stroyno_inscriptions/Hermankova2020_4.html)
+4. [Dedication to/by Pytnios](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_4.html)
 
 5. [aaa]()
 
 ## Epidoc files: 
-In order to download Epidoc XML files, please go to the [Github repository/epidoc folder](https://github.com/petrifiedvoices/stroyno_inscriptions)
+In order to download Epidoc XML files, please go to the [Github repository/epidoc folder](https://github.com/petrifiedvoices/stroyno_inscriptions/epidoc)
 
 ## The article: 
 The full article can be accessed at [TBA]().
