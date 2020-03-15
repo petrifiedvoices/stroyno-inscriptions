@@ -46,7 +46,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Unknown
+                            <origPlace>Unknown place in
                             <placeName type="provinceItalicRegion" ref="http://www.trismegistos.org/place/000014">Thracia</placeName>
                             </origPlace>
                             <origDate evidence="conjecture" notBefore="0101" notAfter="0299">AD 101 - AD 299 </origDate>
@@ -55,7 +55,7 @@
                             <placeName ref="42.286500, 26.695216">Yurta-Stroyno</placeName>,
                             <placeName ref="http://www.geonames.org/726707">Stroyno</placeName>,
                              <placeName type="modern_region" ref="http://www.geonames.org/">Jambol</placeName>,
-                            <placeName type="modernCountry" ref="http://www.geonames.org/countries/bg/">Bulgaria</placeName>,
+                            <placeName type="modernCountry" ref="http://www.geonames.org/countries/bg/">Bulgaria</placeName>.
                                  Found during the Stroyno Archaeological Project, season 2015, robber’s trench soil [SU_001] in the Room B.
                         </provenance>
                         <provenance type="autopsy">Editor present in the field during excavation.</provenance>
@@ -90,8 +90,9 @@
             <change when="2020-03-13" who="Hermankova"> First edition.</change>
         </revisionDesc>
     </teiHeader>
+    
      <facsimile>
-        <surface n="i">
+        <surface>
             <desc>Side A with the temple relief.</desc>
             <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_A.tif!">
             <desc>Photograph (2015)</desc>
@@ -134,8 +135,9 @@
                 <p>The male personal name Pytnios in genitive case, typical for dedications either made by Pytnios, or to a deity with an epithet Pytnios. The personal name Pytnios or Pitnios has not been attested anywhere else, but the suffixes Pyt- and especially Pyth- are relatively common in the Greek-speaking world, e.g. Apollo Pythios from Delphi  (Fraser – Matthews 2005, 295) </p>
             </div>
             <div type="bibliography">
-                <p>Editio princeps.  Hermankova 2020, no. 4
-                </p>
+                <bibl>
+                    <ptr target="Hermankova2020"/>
+                </bibl>
             </div>
         </body>
     </text>

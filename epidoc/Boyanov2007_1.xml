@@ -13,7 +13,7 @@ href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="htt
             </idno>
             <idno type="TM">197833</idno>
             <idno type="localID">HD064478</idno>
-            <idno type="localID">Hermankova 2020, 1</idno>
+            <idno type="localID">Boyanov 2007, no. 1</idno>
             <availability>
             <p>© Heidelberg Academy of Sciences and Humanities</p>
             <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -25,34 +25,34 @@ href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="htt
                 <msIdentifier>
                     <repository >Regional Historical Museum, Yambol, Bulgaria</repository>
                     <collection/>
-                    <idno/>
+                    <idno>4748</idno>
                 </msIdentifier>
         <physDesc>
             <objectDesc>
                 <supportDesc>
                     <support>
+                        <material ref="http://www.eagle-network.eu/voc/material/lod/109">Bronze</material> 
                         <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">Table</objectType>
-                               <material ref="http://www.eagle-network.eu/voc/material/lod/109">Bronze</material>
-                                <p/>
+                               with dimensions
                                 <dimensions unit="m">
                                     <height>0.04</height>
                                     <width>0.04</width>
                                     <depth>0.001</depth>
-                                </dimensions>
-                <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000">No decoration</rs>
-                </support>
+                                </dimensions> (m).
+                                <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000">No decoration</rs>.
+                     </support>
             </supportDesc>
             <layoutDesc>
                 <layout>
-                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/21">Unknown</rs>
+                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/21">Unknown</rs> <p>execution. The text on the inner side rotated by 90 degrees left.</p>
                 </layout>
             </layoutDesc>
         </objectDesc>
         <handDesc>
         <handNote>
         <dimensions>
-            <width unit="m"/>
-            <height unit="m">0.04</height>
+            <width unit="m"></width>
+            <height unit="m">0.004</height>
         </dimensions>
         </handNote>
         </handDesc>
@@ -106,16 +106,25 @@ href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="htt
     <change when="2020-03-13" who="Hermankova"> revision</change>
 </revisionDesc>
 </teiHeader>
+    
+<facsimile>
+        <surface >
+            <desc>Outer side of the military diploma, Boyanov 2007, Fig. 1</desc>
+            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Boyanov2007_1.png!">
+            <desc>Photograph, I. Boyanov (2007)</desc>
+            </graphic>
+            <desc>Inner side of the military diploma, Boyanov 2007, Fig. 2</desc>
+            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Boyanov2007_2.png!">
+            <desc>Photograph, I. Boyanov (2007)</desc>
+            </graphic>
+        </surface>
+     </facsimile>    
+    
+
 
 <text>
     <body>
-        <div type="bibliography">
-            <listBibl>
-                <bibl> AE 2007, 1259. </bibl>
-                <bibl> I. Boyanov, ArchBulg 11, 3, 2007, 69-70; fig. 1 u. 2. </bibl>
-            </listBibl>
-        </div>
-<!--
+        <!--
 
                 - - - - - -] / [- - - in classe praetoria] Misenen/[si quae est sub - - - praef(ecto)] XXVI sti/[pendi(i)s emeritis dimissis honesta mis]sione / [quorum nomina subscript(a) sunt ipsis] fili(i)sq(ue) / [eorum quos susceperint ex mulierib]us qua/[s & // - - - - - -] / [- - -]R(?)E(?)L(?)I[-]N[- - -] / [- - - Co]nstanti [- - -] / [- - - descri]pt(um) et recogn[it(um) - - -] / [- - - fi]xa est Rom[ae - - -] / [- - - d]ivi Aug(usti) [ad Minervam]
             
@@ -242,7 +251,14 @@ href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="htt
             <p/>
         </div>
         <div type="commentary">
-            <p> Fragment of diploma.</p>
+            <p> Fragment of military diploma issued on behalf of an inhabitant of Thrace, likely of Thracian origin, who served before the mid-2nd century AD in the Roman Navy (the imperial fleet in Misenum).</p>
+        </div>
+        <div type="bibliography">
+            <listBibl>
+                <bibl> AE 2007, 1259. </bibl>
+                <bibl> Boyanov, I. 2007, Archeologia Bulgarica 11 (3), 69-74, fig. 1 + 2. </bibl>
+                <bibl> Hermankova 2020. </bibl>
+            </listBibl>
         </div>
     </body>
 </text>
