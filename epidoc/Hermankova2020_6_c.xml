@@ -6,11 +6,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pottery graffiti</title>
+                <title>Fish pictorial graffiti on pottery</title>
             </titleStmt>
             <publicationStmt>
                 <authority>Petra Hermankova</authority>
-                <idno type="filename">Hermankova 2020, 6a</idno>
+                <idno type="filename">Hermankova 2020, 6c</idno>
                 <date from="2020-03-16"/>
                 <availability> 
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -21,26 +21,24 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>Stroyno Archaeological Project, now stored at Regional Historical Museum, Yambol, Bulgaria.</repository>
-                        <idno>SY15_079</idno>
+                        <idno>SY15_178</idno>
                     </msIdentifier>           
                     <physDesc>
                         <objectDesc>
                               <supportDesc>
                                 <support>
-                                    <p>The <material ref="https://www.eagle-network.eu/voc/material/lod/130">clay</material> <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/305">vessel</objectType> fragment with dimensions (mm) 
-                                        <dimensions unit="mm">
-                                         	<dim type="diameter" extent="100">100</dim>
-                                        </dimensions> (Inner diameter of the base). 
-                                      </p>
+                                    <p>The <material ref="https://www.eagle-network.eu/voc/material/lod/130">clay</material> <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/305">vessel</objectType>
+                                        body fragment. The pictoral graffiti is <rs type="execution" ref="https://www.eagle-network.eu/voc/writing/lod/1">incised</rs> into the inner side of fine red-slipped ware, possibly of an open bowl. The image represents fins of a fish.                        
+                                    </p>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Letters <rs type="execution" ref="https://www.eagle-network.eu/voc/writing/lod/1">incised</rs> into the body immediately above the base of the vessel, on the outer side at the base of a jug</layout> 
+                                <layout>No letters visible.</layout> 
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
-                                <height unit="mm">10</height>; letter eta.
+                            <handNote>NA
+                                <height/>
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -77,13 +75,11 @@
             </creation>
             <textClass>
                  <keywords>
-                     <term ref="http://www.eagle-network.eu/voc/typeins/lod/105">Owner / artist inscription</term>
                      <term ref="http://www.eagle-network.eu/voc/typeins/lod/127">Graffiti</term>
         </keywords>
     </textClass>
 <langUsage>
     <language ident="en">English</language>
-    <language ident="grc">Ancient Greek</language>
 </langUsage>
 </profileDesc>
         <revisionDesc>
@@ -93,12 +89,12 @@
     
      <facsimile>
         <surface>
-            <desc>Outer side of the sherd with the incised graffiti.</desc>
-            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_6a_1.png">
+            <desc>Inner side of the sherd with the incised pictorial graffiti, representing fin of a fish.</desc>
+            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_6c_1.png">
             <desc>Drawing, Věra Doležálková, Petra Tušlová (2018)</desc>
             </graphic>
-            <desc>Outer side of the sherd with the incised graffiti.</desc>
-            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_6a_2.JPG">
+            <desc>Inner side of the sherd with the incised graffiti, fin of a fish and red-slip on the surface.</desc>
+            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_6c_2.JPG">
             <desc>Photo,  Johana Tlustá (2015)</desc>
             </graphic>
         </surface>
@@ -106,21 +102,11 @@
     
 <text>
         <body>
-            <div type="edition" xml:lang="grc">
-                <ab>
-                    <lb n="1"/> <orig>η<unclear>ν</unclear></orig>
-                   </ab>
-            </div>
-            <div type="apparatus"> 
-                <app loc="1">
-                <note>First letter most likely Η, second letter only the lower two strikes of Ν visible. If turned upside down, it could also be Δ, Λ, Α.</note>
-            </app>
-            </div>
             <div type="translation">
                 <p>NA</p>
             </div>
             <div type="commentary">
-                <p>The textual graffiti each contain individual letters of possibly Greek alphabet and are located on the outer side at the base of a jug, traditionally interpreted as an indication of the ownership.</p>
+                <p>The pictorial graffiti serve as decorative motif.</p>
             </div>
             <div type="bibliography">
                 <bibl>
@@ -130,6 +116,7 @@
         </body>
     </text>
  </TEI>
+
 
 
 

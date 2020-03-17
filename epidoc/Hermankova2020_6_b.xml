@@ -10,7 +10,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Petra Hermankova</authority>
-                <idno type="filename">Hermankova 2020, 6a</idno>
+                <idno type="filename">Hermankova 2020, 6b</idno>
                 <date from="2020-03-16"/>
                 <availability> 
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -21,7 +21,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>Stroyno Archaeological Project, now stored at Regional Historical Museum, Yambol, Bulgaria.</repository>
-                        <idno>SY15_079</idno>
+                        <idno>SY15_080</idno>
                     </msIdentifier>           
                     <physDesc>
                         <objectDesc>
@@ -29,7 +29,7 @@
                                 <support>
                                     <p>The <material ref="https://www.eagle-network.eu/voc/material/lod/130">clay</material> <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/305">vessel</objectType> fragment with dimensions (mm) 
                                         <dimensions unit="mm">
-                                         	<dim type="diameter" extent="100">100</dim>
+                                         	<dim type="diameter" extent="40">40</dim>
                                         </dimensions> (Inner diameter of the base). 
                                       </p>
                                 </support>
@@ -40,7 +40,7 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <height unit="mm">10</height>; letter eta.
+                                <height unit="mm">15</height>; letter eta.
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -94,11 +94,11 @@
      <facsimile>
         <surface>
             <desc>Outer side of the sherd with the incised graffiti.</desc>
-            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_6a_1.png">
+            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_6b_1.png">
             <desc>Drawing, Věra Doležálková, Petra Tušlová (2018)</desc>
             </graphic>
             <desc>Outer side of the sherd with the incised graffiti.</desc>
-            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_6a_2.JPG">
+            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_6b_2.JPG">
             <desc>Photo,  Johana Tlustá (2015)</desc>
             </graphic>
         </surface>
@@ -108,19 +108,19 @@
         <body>
             <div type="edition" xml:lang="grc">
                 <ab>
-                    <lb n="1"/> <orig>η<unclear>ν</unclear></orig>
+                    <lb n="1"/>η
                    </ab>
             </div>
             <div type="apparatus"> 
                 <app loc="1">
-                <note>First letter most likely Η, second letter only the lower two strikes of Ν visible. If turned upside down, it could also be Δ, Λ, Α.</note>
+                <note>First letter most likely Η</note>
             </app>
             </div>
             <div type="translation">
                 <p>NA</p>
             </div>
             <div type="commentary">
-                <p>The textual graffiti each contain individual letters of possibly Greek alphabet and are located on the outer side at the base of a jug, traditionally interpreted as an indication of the ownership.</p>
+                <p>The textual graffiti containing individual letter of possibly Greek alphabet and is located on the outer side at the base of a jug, traditionally interpreted as an indication of the ownership.</p>
             </div>
             <div type="bibliography">
                 <bibl>
