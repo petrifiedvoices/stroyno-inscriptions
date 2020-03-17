@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
  <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
--->
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Votive plaque by/to Pytnios</title>
+                <title>Votive clay plaque by/to Pytnios</title>
             </titleStmt>
             <publicationStmt>
                 <authority>Petra Hermankova</authority>
@@ -28,19 +27,24 @@
                         <objectDesc>
                               <supportDesc>
                                 <support>
-                                    <p>The <material>terracotta</material> <objectType>plaque</objectType> made from red clay without any slip and preserved from 50 % with dimensions (m) <dimensions unit="m">
-                                         <width>0.06</width> <height>0.04</height> <depth>0.01</depth>
-                                    </dimensions>  The A side of the terracotta plaque is decorated with a figural scene in shallow mould-made relief. Although the lower part of the relief is missing, the scene is depicting a deity with long hair, wearing a polos hat, standing in the middle of a Doric temple, accompanied by bucranion on her/his left side and what appears to be an upper part of a club on the right side. In the middle of the temple’s pediment is located a round object, possibly the sun or a round shield.
-                                      </p>
+                                    <p>The <material ref="https://www.eagle-network.eu/voc/material/lod/130">clay</material> <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/262">clay tablet</objectType> made from red clay without any slip and preserved from 50 % with dimensions (m) <dimensions unit="metre">
+                                         <width unit="metre">0.06</width> <height unit="metre">0.04</height> <depth unit="metre">0.01</depth>
+                                    </dimensions>  The A side of the terracotta plaque is decorated with a figural scene in shallow mould-made <rs ref="https://www.eagle-network.eu/voc/objtyp/lod/24">relief</rs>. Although the lower part of the relief is missing, the scene is depicting a deity with long hair, wearing a polos hat, standing in the middle of a Doric temple, accompanied by bucranion on her/his left side and what appears to be an upper part of a club on the right side. In the middle of the temple’s pediment is located a round object, possibly the sun or a round shield.
+                                        Relief depicting: 
+                                        <rs type="decoration" ref="https://www.eagle-network.eu/voc/decor/lod/686">Human figure</rs>, 
+                                        <rs type="decoration" ref="https://www.eagle-network.eu/voc/decor/lod/796">Temple</rs>, 
+                                        <rs type="decoration" ref="https://archwort.dainst.org/de/term/7602">Boukranion</rs>, 
+                                        <rs type="decoration" ref="https://archwort.dainst.org/de/term/2947">Statue</rs>
+                                    </p>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout> <rs type="execution" key="stilo">Inscribed</rs> into the middle of the B side of a small terracotta plaque.</layout>
+                                <layout> <rs type="execution" key="stilo" ref="https://www.eagle-network.eu/voc/writing/lod/14">Inscribed</rs> into the middle of the B side of a small terracotta plaque.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
                             <handNote>Handwritten when the clay was still wet, uneven depth of the letters. The initial strokes of the letter Π are 1-2 mm deeper than the rest of the text. 
-                                Letter height <height>0.008</height> m. 
+                                Letter height <height unit="metre">0.008</height> m. 
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -49,12 +53,12 @@
                             <origPlace>Unknown place in
                             <placeName type="provinceItalicRegion" ref="http://www.trismegistos.org/place/000014">Thracia</placeName>
                             </origPlace>
-                            <origDate evidence="conjecture" notBefore="0101" notAfter="0299">AD 101 - AD 299 </origDate>
+                            <origDate evidence="conjecture" notBefore="0050" notAfter="0299">AD 50 - AD 299 </origDate>
                         </origin>
                         <provenance type="found">
                             <placeName ref="42.286500, 26.695216">Yurta-Stroyno</placeName>,
                             <placeName ref="http://www.geonames.org/726707">Stroyno</placeName>,
-                             <placeName type="modern_region" ref="http://www.geonames.org/">Jambol</placeName>,
+                             <placeName type="modern_region" ref="http://www.geonames.org/864563/oblast-yambol">Yambol</placeName>,
                             <placeName type="modernCountry" ref="http://www.geonames.org/countries/bg/">Bulgaria</placeName>.
                                  Found during the Stroyno Archaeological Project, season 2015, robber’s trench soil [SU_001] in the Room B.
                         </provenance>
@@ -78,11 +82,12 @@
             </creation>
             <textClass>
                  <keywords>
-            <term ref="http://www.eagle-network.eu/voc/typeins/lod/83">votive inscription</term>
-        </keywords>
+                     <term ref="http://www.eagle-network.eu/voc/typeins/lod/83">votive inscription</term>
+                 </keywords>
     </textClass>
 <langUsage>
     <language ident="lat">Latin</language>
+    <language ident="grc">Ancient Greek</language>
     <language ident="en">English</language>
 </langUsage>
 </profileDesc>
@@ -94,7 +99,7 @@
      <facsimile>
         <surface>
             <desc>Side A with the temple relief.</desc>
-            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_A.tif!">
+            <graphic url="https://github.com/petrifiedvoices/stroyno_inscriptions/blob/master/Photos/Hermankova2020_4_A.tif">
             <desc>Photograph (2015)</desc>
             </graphic>
             <desc>Side B with the inscription.</desc>   
