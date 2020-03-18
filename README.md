@@ -14,17 +14,17 @@ Greek and Latin inscriptions; epigraphy; Thrace; regional networks; Kabyle; Bulg
 
 Individual inscriptions menationed in the text:
 
-1. [Boyanov 2007, no. 1](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Boyanov2007_1.html)
+1. [Military diploma: Boyanov 2007, no. 1](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Boyanov2007_1.html)
 
-1. [ccc]()
+1. [Horse Rider plate](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_1.html)
 
-2. [vvv]()
+2. [Relief plate to/by Avilius family member](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_2.html)
 
-3. [xxx]()
+3. [Horse Rider plate](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_3.html)
 
 4. [Dedication to/by Pytnios](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_4.html)
 
-5. [aaa]()
+5. [Brick with dedication to a female deity](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_5.html)
 
 ## Epidoc files: 
 In order to download Epidoc XML files, please go to the [Github repository](https://github.com/petrifiedvoices/stroyno_inscriptions) > ```epidoc``` folder
