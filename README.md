@@ -21,7 +21,6 @@ Roman period (AD 50 - AD 399)
 <iframe width="800" height="600" frameborder="1" src="https://petrajanouchova.carto.com/builder/a0145f9c-f772-41bc-ab69-75b298ccf398/embed"></iframe>
 </div>
 
-
 ------------------
 # The Digital Supplement
 
