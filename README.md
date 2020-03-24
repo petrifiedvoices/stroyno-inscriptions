@@ -29,34 +29,34 @@ Individual inscriptions in the orded as mentioned in the text:
 
 ## Previously published inscriptions:
 
-- [Military diploma: Boyanov 2007, no. 1](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Boyanov2007_1.html)
+- [Military diploma: Boyanov 2007, no. 1](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Boyanov2007_1.html)
 
 ## Editio princeps 
 
-1. [Horse Rider plate](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_1.html)
+1. [Horse Rider plate](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_1.html)
 
-2. [Relief plate to/by Avilius family member](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_2.html)
+2. [Relief plate to/by Avilius family member](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_2.html)
 
-3. [Horse Rider plate](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_3.html)
+3. [Horse Rider plate](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_3.html)
 
-4. [Dedication to/by Pytnios](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_4.html)
+4. [Dedication to/by Pytnios](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_4.html)
 
-5. [Brick with dedication to a female deity](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_5.html)
+5. [Brick with dedication to a female deity](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_5.html)
 
 6. Pottery graffiti
 	
-	a. [Pottery graffiti](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_6_a.html)
+	a. [Pottery graffiti](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_6_a.html)
 
-	b. [Pottery graffiti](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_6_b.html)
+	b. [Pottery graffiti](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_6_b.html)
 
-	c. [Fish pictorial graffiti on pottery](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_6_c.html)
+	c. [Fish pictorial graffiti on pottery](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_6_c.html)
 
-	d. [Fish pictorial graffiti on pottery](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_6_d.html)
+	d. [Fish pictorial graffiti on pottery](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_6_d.html)
 	
-	e. [Fish pictorial graffiti on pottery](https://petrifiedvoices.github.io/stroyno_inscriptions/html/Hermankova2020_6_e.html)
+	e. [Fish pictorial graffiti on pottery](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_6_e.html)
 
 ## Epidoc files: 
-In order to download Epidoc XML files, please go to the [Github repository](https://github.com/petrifiedvoices/stroyno_inscriptions) > ```epidoc``` folder
+In order to download Epidoc XML files, please go to the [Github repository](https://github.com/petrifiedvoices/stroyno-inscriptions) > ```epidoc``` folder
 
 ## The article: 
 The full article can be accessed at [TBA]().
