@@ -13,10 +13,7 @@ img {
 
   h1,
   h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  h3 {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
@@ -27,5 +24,9 @@ img {
   p {
     margin-bottom: 1em;
     margin: 50px;
+  }
+
+  ul {
+  margin: 50px;
   }
 
