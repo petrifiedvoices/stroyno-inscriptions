@@ -9,11 +9,18 @@ In the past two decades, several epigraphic monuments were found at the site Yur
 ### Keywords
 Greek and Latin inscriptions; epigraphy; Thrace; regional networks; Kabyle; Bulgaria; Epidoc; TEI-XML
 
+### Chronology of inscriptions (max span of inscriptions)
+Roman period (AD 50 - AD 399)
+
 ### Geolocation
 42.286500, 26.695216
 
-### Chronology (max span)
-Roman period (AD 50 - AD 399)
+###Map
+
+<div align="center">
+<iframe width="80%" height="100%" frameborder="1" src="https://petrajanouchova.carto.com/builder/a0145f9c-f772-41bc-ab69-75b298ccf398/embed"></iframe>
+</div>
+
 
 ------------------
 # The Digital Supplement
