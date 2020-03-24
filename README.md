@@ -15,7 +15,7 @@ Roman period (AD 50 - AD 399)
 ### Geolocation
 42.286500, 26.695216
 
-### Map
+### Interactive map (AD 200)
 
 <div align="center">
 <iframe width="800" height="600" frameborder="1" src="https://petrajanouchova.carto.com/builder/a0145f9c-f772-41bc-ab69-75b298ccf398/embed"></iframe>
