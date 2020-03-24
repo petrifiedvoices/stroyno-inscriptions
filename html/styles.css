@@ -22,9 +22,11 @@ body {
     margin-bottom: 1rem;
     font-weight: normal;
     color: #159957;
+    margin: 60px;
   }
 
   p {
     margin-bottom: 1em;
+    margin: 50px;
   }
 
