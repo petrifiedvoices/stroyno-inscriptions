@@ -1,32 +1,41 @@
 body {
-  padding: 0;
+  padding: 2;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 12px;
+  font-size: 16px;
   line-height: 1.5;
   color: #000000;
 }
 
 img {
     max-width: 100%;
+    border: 1px solid #159957;
   }
 
   h1,
   h2,
-  h3 {
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    font-weight: normal;
+  h3
+  {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: bolder;
     color: #159957;
-    margin: 60px;
+    margin: 50px;
+  }
+  
+  h4,
+  h5,
+  h6 {
+  color:#000000;
+  margin: 50px;
   }
 
   p {
-    margin-bottom: 1em;
     margin: 50px;
   }
-
+  
   ul {
   margin: 50px;
   }
+
 
