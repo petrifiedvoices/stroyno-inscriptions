@@ -34,7 +34,17 @@ img {
   }
   
   ul {
-  margin: 30px;
+  	margin: 30px;
+  }
+
+  hr {
+	color: #159957;
+	width: 100%;
+	align-self: left;
+	height: 1px;
+    background-color: #159957;
+    border: none;
+    align-items: left;
   }
 
 
