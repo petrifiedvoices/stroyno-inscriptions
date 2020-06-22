@@ -60,5 +60,5 @@ Individual inscriptions in the orded as mentioned in the text:
 In order to download Epidoc XML files, please go to the [Github repository](https://github.com/petrifiedvoices/stroyno-inscriptions) > ```epidoc``` folder
 
 ## The article: 
-The full article can be accessed at [TBA]() as part of the volume on Yurta-Stroyno Archaeological Project.
+The full article can be accessed at [...]() (TBA) as part of the volume on Yurta-Stroyno Archaeological Project.
 
