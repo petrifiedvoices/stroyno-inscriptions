@@ -1,4 +1,4 @@
-Copyright (c) 2016 petra.janouchova (petra.janouchova @ gmail.com)
+Copyright (c) 2020 petra.janouchova (petra.janouchova @ gmail.com)
 
 
 # Creative Commons Attribution Share Alike 4.0 International

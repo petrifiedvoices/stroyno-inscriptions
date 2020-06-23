@@ -10,8 +10,8 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Petra Hermankova</authority>
-                <idno type="filename">Hermankova 2020, 6d</idno>
-                <date from="2020-03-16"/>
+                <idno type="filename">Hermankova 2020, 6f</idno>
+                <date from="2020-06-23"/>
                 <availability> 
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
                     </licence>
@@ -21,14 +21,14 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>Stroyno Archaeological Project, now stored at Regional Historical Museum, Yambol, Bulgaria.</repository>
-                        <idno>SY15_179</idno>
+                        <idno>SY15_419</idno>
                     </msIdentifier>           
                     <physDesc>
                         <objectDesc>
                               <supportDesc>
                                 <support>
                                     <p>The <material ref="https://www.eagle-network.eu/voc/material/lod/130">clay</material> <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/305">vessel</objectType>
-                                        body fragment. The pictoral graffiti is <rs type="execution" ref="https://www.eagle-network.eu/voc/writing/lod/1">incised</rs> into the inner side of fine red-slipped ware, possibly of an open bowl. The image represents a fish with fins.                        
+                                        base fragment. The pictoral graffiti is <rs type="execution" ref="https://www.eagle-network.eu/voc/writing/lod/1">incised</rs> into the inner side of fine red-slipped ware, possibly of an open bowl. The image represents a fish fins.                        
                                     </p>
                                 </support>
                             </supportDesc>
@@ -83,18 +83,18 @@
 </langUsage>
 </profileDesc>
         <revisionDesc>
-            <change when="2020-03-16" who="Hermankova"> First edition.</change>
+            <change when="2020-06-23" who="Hermankova"> First edition.</change>
         </revisionDesc>
     </teiHeader>
     
      <facsimile>
         <surface>
-            <desc>Inner side of the sherd with the incised pictorial graffiti, representing a fish.</desc>
-            <graphic url="https://github.com/petrifiedvoices/stroyno-inscriptions/blob/master/Photos/Hermankova2020_6d_1.png">
+            <desc>Inner side of the sherd with the incised pictorial graffiti, representing a fish fin.</desc>
+            <graphic url="https://github.com/petrifiedvoices/stroyno-inscriptions/blob/master/Photos/Hermankova2020_6f_1.png">
             <desc>Drawing, Věra Doležálková, Petra Tušlová (2018)</desc>
             </graphic>
-            <desc>Inner side of the sherd with the pictoral graffiti, representing a fish incised into a red-slip on the surface.</desc>
-            <graphic url="https://github.com/petrifiedvoices/stroyno-inscriptions/blob/master/Photos/Hermankova2020_6d_2.JPG">
+            <desc>Inner side of the sherd with the pictoral graffiti, representing a fish fin incised into a red-slip on the surface.</desc>
+            <graphic url="https://github.com/petrifiedvoices/stroyno-inscriptions/blob/master/Photos/Hermankova2020_6f_2.JPG">
             <desc>Photo,  Johana Tlustá (2015)</desc>
             </graphic>
         </surface>
@@ -116,6 +116,7 @@
         </body>
     </text>
  </TEI>
+
 
 
 
