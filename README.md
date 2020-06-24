@@ -1,7 +1,7 @@
 
 # The epigraphic finds from Yurta-Stroyno in regional context - digital supplement
 
-Author: *Petra Heřmánková, PhD*, ORCID: [0000-0002-6349-0540](https://orcid.org/0000-0002-6349-0540)
+Author: *Petra Heřmánková, PhD*, [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3903144.svg)](https://doi.org/10.5281/zenodo.3903144)
 
@@ -10,18 +10,16 @@ Author: *Petra Heřmánková, PhD*, ORCID: [0000-0002-6349-0540](https://orcid.o
 In the past two decades, several epigraphic monuments were found at the site Yurta-Stroyno and its immediate vicinity, contributing to the archaeological knowledge of the site but also placing the settlement into a broader context of the middle Tundzha River region. This chapter examines in detail three inscriptions associated with the site that were found prior to 2014 and additional three objects with epigraphic value and five graffiti, which were found during the excavation of the Stroyno Archaeological Project [(SAP)](https://ukar.ff.cuni.cz/cs/veda-a-vyzkum/projekty/balkan-a-egejska-oblast/strojno/) in 2014–2016. All six epigraphic objects and five graffiti are discussed and compared with known regional parallels, further improving our understanding of the character of the Yurta-Stroyno settlement and its links to other sites in the region. Based on the textual evidence coming from the surviving inscriptions, it seems, the settlement at Yurta-Stroyno and the military camp at Kabyle, located some 40 km north of Yurta-Stroyno, were interconnected during the 2nd c. AD by personal and military associations alike.
 
 ### Keywords
-Greek and Latin inscriptions; epigraphy; Thrace; regional networks; Kabyle; Bulgaria; Epidoc; TEI-XML
+Greek and Latin inscriptions; epigraphy; Thrace; regional networks; Kabyle; Yurta-Stroyno; Bulgaria; Epidoc; TEI-XML
 
-### Chronology of inscriptions (max span of inscriptions)
+### Chronology of inscriptions (maximum chronological span of dated inscriptions)
 Roman period (AD 50 - AD 399)
 
 ### Geolocation
 42.286500, 26.695216
 
 ### Interactive map (AD 200)
-
-<div align="center">
-<iframe width="800" height="600" frameborder="1" src="https://petrajanouchova.carto.com/builder/a0145f9c-f772-41bc-ab69-75b298ccf398/embed"></iframe>
+<div align="center"><iframe width="800" height="600" frameborder="1" src="https://petrajanouchova.carto.com/builder/a0145f9c-f772-41bc-ab69-75b298ccf398/embed"></iframe>
 </div>
 
 ------------------
@@ -45,7 +43,7 @@ Individual inscriptions in the orded as mentioned in the text:
 
 5. [Brick with dedication to a female deity](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_5.html)
 
-6. Pottery graffiti
+6. Pottery graffiti & dipinti
 	
 	a. [Pottery graffiti](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_6_a.html)
 
@@ -57,10 +55,16 @@ Individual inscriptions in the orded as mentioned in the text:
 	
 	e. [Fish pictorial graffiti on pottery](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_6_e.html)
 
+	f. [Fish pictorial graffiti on pottery](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_6_f.html)
+
+	g. [Dipinti on pottery](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_6_f.html)
+
+	h. [Dipinti on pottery](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_6_h.html)
+
 ## Epidoc files: 
-In order to download Epidoc XML files, please go to the [Github repository](https://github.com/petrifiedvoices/stroyno-inscriptions) > ```epidoc``` folder
+In order to download the Epidoc XML files, please go to the [Github repository](https://github.com/petrifiedvoices/stroyno-inscriptions) folder ```epidoc```.
 
 ## The article: 
-The full article can be accessed at [...]() (TBA) as part of the volume _'The Stroyno Archaeological Project. 
-Studies on the Roman Rural Settlement in Thrace'_.
+The full article can be accessed at [...]() (TBA) as part of the volume Tušlová, P., Weissová, B. (Eds.):_'The Stroyno Archaeological Project. 
+Studies on the Roman Rural Settlement in Thrace'_. Prague.
 
