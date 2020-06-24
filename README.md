@@ -1,24 +1,24 @@
 
 # The epigraphic finds from Yurta-Stroyno in regional context - digital supplement
 
-Author: *Petra Heřmánková, PhD*, [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540)
+Author: *Petra Heřmánková, PhD* [![0000-0002-6349-0540](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3903144.svg)](https://doi.org/10.5281/zenodo.3903144)
 
 
-## Abstract
-In the past two decades, several epigraphic monuments were found at the site Yurta-Stroyno and its immediate vicinity, contributing to the archaeological knowledge of the site but also placing the settlement into a broader context of the middle Tundzha River region. This chapter examines in detail three inscriptions associated with the site that were found prior to 2014 and additional three objects with epigraphic value and five graffiti, which were found during the excavation of the Stroyno Archaeological Project [(SAP)](https://ukar.ff.cuni.cz/cs/veda-a-vyzkum/projekty/balkan-a-egejska-oblast/strojno/) in 2014–2016. All six epigraphic objects and five graffiti are discussed and compared with known regional parallels, further improving our understanding of the character of the Yurta-Stroyno settlement and its links to other sites in the region. Based on the textual evidence coming from the surviving inscriptions, it seems, the settlement at Yurta-Stroyno and the military camp at Kabyle, located some 40 km north of Yurta-Stroyno, were interconnected during the 2nd c. AD by personal and military associations alike.
+## Abstract:
+In the past two decades, several epigraphic monuments were found at the site Yurta-Stroyno and its immediate vicinity. Their discovery contributed to the archaeological knowledge of the site but also positioned the settlement into a broader context of the middle Tundzha River region. This chapter examines in detail three inscriptions associated with the site, found before 2014, and additional three objects with epigraphic value, six graffiti and two dipinti, found during the excavation of the Stroyno Archaeological Project [(SAP)](https://ukar.ff.cuni.cz/cs/veda-a-vyzkum/projekty/balkan-a-egejska-oblast/strojno/) in 2014–2016. All 14 epigraphic objects are discussed and compared with known regional parallels, further improving our understanding of the character of the Yurta-Stroyno settlement and its links to other sites in the region. Based on the textual evidence coming from the surviving inscriptions, it seems, the settlement at Yurta-Stroyno and the military camp at Kabyle, located some 40 km north of Yurta-Stroyno, were interconnected during the 2nd c. AD by personal and military associations alike.
 
-### Keywords
+### Keywords:
 Greek and Latin inscriptions; epigraphy; Thrace; regional networks; Kabyle; Yurta-Stroyno; Bulgaria; Epidoc; TEI-XML
 
-### Chronology of inscriptions (maximum chronological span of dated inscriptions)
+### Chronology of inscriptions (maximum chronological span of dated inscriptions):
 Roman period (AD 50 - AD 399)
 
-### Geolocation
+### Geolocation:
 42.286500, 26.695216
 
-### Interactive map (AD 200)
+### Interactive map (AD 200):
 <div align="center"><iframe width="800" height="600" frameborder="1" src="https://petrajanouchova.carto.com/builder/a0145f9c-f772-41bc-ab69-75b298ccf398/embed"></iframe>
 </div>
 
@@ -31,7 +31,7 @@ Individual inscriptions in the orded as mentioned in the text:
 
 - [Military diploma: Boyanov 2007, no. 1](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Boyanov2007_1.html)
 
-## Editio princeps 
+## Editio princeps: 
 
 1. [Horse Rider plate](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_1.html)
 
