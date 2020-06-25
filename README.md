@@ -1,5 +1,5 @@
 
-# The epigraphic finds from Yurta-Stroyno in regional context - digital supplement
+# The Epigraphic Finds from Yurta-Stroyno in a Regional Context - Digital Supplement
 
 Author: *Petra Heřmánková, PhD* [![0000-0002-6349-0540](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540)
 
