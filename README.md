@@ -57,7 +57,7 @@ Individual inscriptions in the orded as mentioned in the text:
 
 	f. [Fish pictorial graffiti on pottery (SY15_419)](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_6_f.html)
 
-	g. [Graffiti (?) on pottery (SY15_414)](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_6_f.html)
+	g. [Graffiti (?) on pottery (SY15_414)](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_6_g.html)
 
 	h. [Graffiti (?) on pottery (SY15_415)](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_6_h.html)
 
