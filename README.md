@@ -25,8 +25,6 @@ Roman period (AD 50 - AD 399)
 ------------------
 # The Digital Supplement
 
-Individual inscriptions in the orded as mentioned in the text:
-
 ## Previously published inscriptions:
 
 - [Military diploma (Boyanov 2007, no. 1)](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Boyanov2007_1.html)
@@ -65,6 +63,9 @@ Individual inscriptions in the orded as mentioned in the text:
 In order to download the Epidoc XML files, please go to the [Github repository](https://github.com/petrifiedvoices/stroyno-inscriptions) folder ```epidoc```.
 
 ## The article: 
-The full article can be accessed at [...]() (TBA) as part of the volume Tušlová, P., Weissová, B. (Eds.):_'The Stroyno Archaeological Project. 
+The full article can be accessed at [...]() (TBA) as part of the volume Tušlová, P., Weissová, B. (Eds.): _'The Stroyno Archaeological Project. 
 Studies on the Roman Rural Settlement in Thrace'_. Prague.
+
+## Contact the author:
+petra.hermankova@cas.au.dk
 
