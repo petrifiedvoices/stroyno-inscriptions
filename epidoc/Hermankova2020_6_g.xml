@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Dipinti on pottery</title>
+                <title>Graffiti (?) on pottery</title>
             </titleStmt>
             <publicationStmt>
                 <authority>Petra Hermankova</authority>
@@ -28,14 +28,14 @@
                               <supportDesc>
                                 <support>
                                     <p>The <material ref="https://www.eagle-network.eu/voc/material/lod/130">clay</material> <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/305">vessel</objectType>
-                                        base fragment. The <rs type="execution" ref="https://www.eagle-network.eu/voc/writing/lod/96">dipinto</rs> is painted by a reddish colour into the outer side of a vessel, possibly an open bowl. The image most likely represents X-shaped decorative motif. Dimensions (mm) <dimensions unit="mm">
+                                        base fragment. The graffiti was <rs type="execution" ref="https://www.eagle-network.eu/voc/writing/lod/1">incised</rs> when the clay was still wet into the outer side of a vessel, possibly an open bowl. The image most likely represents X-shaped decorative motif. Dimensions (mm) <dimensions unit="mm">
                                          	<dim type="diameter" extent="100">100</dim>
                                         </dimensions> (Outer diameter of the base).                    
                                     </p>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout> (Possible) letters <rs type="execution" ref="https://www.eagle-network.eu/voc/writing/lod/96">painted</rs> into the body above the base of the vessel, on the outer side at the base. </layout> 
+                                <layout> (Possible) letters <rs type="execution" ref="https://www.eagle-network.eu/voc/writing/lod/1">incised</rs> into the body above the base of the vessel, on the outer side at the base. </layout> 
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -73,7 +73,7 @@
             </classDecl>
         </encodingDesc>
         <profileDesc>
-            <creation> Stroyno Archaeological Project, P. Hermankova, 2015, autopsy 
+            <creation> Stroyno Archaeological Project, P. Hermankova, 2020 
             </creation>
             <textClass>
                  <keywords>
@@ -91,13 +91,13 @@
     
      <facsimile>
         <surface>
-            <desc>Outer side of the sherd with the painted dipinti or decoration in the X-letter shape.</desc>
+            <desc>Outer side of the sherd with the incised graffiti or the decoration in the X-letter shape.</desc>
             <graphic url="https://github.com/petrifiedvoices/stroyno-inscriptions/blob/master/Photos/Hermankova2020_6g_1.png">
             <desc>Drawing, Věra Doležálková, Petra Tušlová (2018)</desc>
             </graphic>
-            <desc>Outer side of the sherd with the painted dipinti or decoration in the X-letter shape.</desc>
+            <desc>Outer side of the sherd with the incised graffiti or the in the X-letter shape.</desc>
             <graphic url="https://github.com/petrifiedvoices/stroyno-inscriptions/blob/master/Photos/Hermankova2020_6g_2.JPG">
-            <desc>Photo,  Johana Tlustá (2015)</desc>
+            <desc>Photo,  Petra Tušlová (2017)</desc>
             </graphic>
         </surface>
      </facsimile>
@@ -116,7 +116,7 @@
                 <p>NA</p>
             </div>
             <div type="commentary">
-                <p>The dipinti serve as decorative motif, X-letter-like shape.</p>
+                <p>The graffiti serve as decorative motif, X-letter-like shape.</p>
             </div>
             <div type="bibliography">
                 <bibl>
