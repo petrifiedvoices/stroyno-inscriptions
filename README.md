@@ -63,8 +63,7 @@ Roman period (AD 50 - AD 399)
 In order to download the Epidoc XML files, please go to the [Github repository](https://github.com/petrifiedvoices/stroyno-inscriptions) folder ```epidoc```.
 
 ## The article: 
-The full article can be accessed at [...]() (TBA) as part of the volume Tušlová, P., Weissová, B. (Eds.): _'The Stroyno Archaeological Project. 
-Studies on the Roman Rural Settlement in Thrace'_. Prague.
+The full article discussing the epigraphic finds can be accessed at [...]() (link TBA) as part of the volume Tušlová, P., Weissová, B. (Eds.). 2022: _'The Stroyno Archaeological Project. Studies on the Roman Rural Settlement in Thrace'_. Prague.
 
 ## Contact the author:
 petra.hermankova@cas.au.dk
