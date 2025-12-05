@@ -1,13 +1,12 @@
 
 # The Epigraphic Finds from Yurta-Stroyno in a Regional Context - Digital Supplement
 
-Author: *Petra Heřmánková, PhD* [![0000-0002-6349-0540](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540)
+Author: *Petra Heřmánková, PhD* [![0000-0002-6349-0540](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540) petra.hermankova@cas.au.dk
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3908271.svg)](https://doi.org/10.5281/zenodo.3908271)
 
-
 ## Abstract:
-In the past two decades, several epigraphic monuments were found at the site Yurta-Stroyno and its immediate vicinity. Their discovery contributed to the archaeological knowledge of the site but also positioned the settlement into a broader context of the middle Tundzha River region. This chapter examines in detail three inscriptions associated with the site, found before 2014, and additional three objects with epigraphic value, six graffiti and two dipinti, found during the excavation of the Stroyno Archaeological Project [(SAP)](https://ukar.ff.cuni.cz/cs/veda-a-vyzkum/projekty/balkan-a-egejska-oblast/strojno/) in 2014–2016. All 14 epigraphic objects are discussed and compared with known regional parallels, further improving our understanding of the character of the Yurta-Stroyno settlement and its links to other sites in the region. Based on the textual evidence coming from the surviving inscriptions, it seems, the settlement at Yurta-Stroyno and the military camp at Kabyle, located some 40 km north of Yurta-Stroyno, were interconnected during the 2nd c. AD by personal and military associations alike.
+In the past two decades, several epigraphic monuments were found at the site Yurta-Stroyno and its immediate vicinity. Their discovery contributed to the archaeological knowledge of the site but also positioned the settlement into a broader context of the middle Tundzha River region. This chapter examines in detail three inscriptions associated with the site, found before 2014, and three additional objects with epigraphic value, six graffiti and two dipinti, found during the excavation of the Stroyno Archaeological Project [(SAP)](https://ukar.ff.cuni.cz/cs/veda-a-vyzkum/projekty/balkan-a-egejska-oblast/strojno/) in 2014–2016. All 14 epigraphic objects are discussed and compared with known regional parallels, further improving our understanding of the character of the Yurta-Stroyno settlement and its links to other sites in the region. Based on the textual evidence coming from the surviving inscriptions, it seems that the settlement at Yurta-Stroyno and the military camp at Kabyle, located some 40 km north of Yurta-Stroyno, were interconnected during the 2nd century AD by personal and military associations alike.
 
 ### Keywords:
 Greek and Latin inscriptions; epigraphy; Thrace; regional networks; Kabyle; Yurta-Stroyno; Bulgaria; Epidoc; TEI-XML
@@ -18,12 +17,19 @@ Roman period (AD 50 - AD 399)
 ### Geolocation:
 42.286500, 26.695216
 
-### Interactive map (AD 200):
-<div align="center"><iframe width="800" height="600" frameborder="1" src="https://petrajanouchova.carto.com/builder/a0145f9c-f772-41bc-ab69-75b298ccf398/embed"></iframe>
-</div>
+### Map of findspots:
+<img width="602" height="793" alt="image" src="https://github.com/user-attachments/assets/ab9dff03-f62d-4c58-a1c3-d2a4af0c73a4" />
+
+Map source: *Heřmánková, Petra. ‘The Epigraphic Finds from Yurta-Stroyno in a Regional Context’. In The Yurta-Stroyno Archaeological Project: Studies on the Roman Rural Settlement in Thrace, edited by Petra Tušlová, Barbora Weissová, and Stefan Bakardzhiev. Studia Hercynia Monographs 2. Charles University, Faculty of Arts, 2022. http://hdl.handle.net/20.500.11956/172822.*
+
 
 ------------------
 # The Digital Supplement
+
+## Example of inscriptions:
+[Dedication to/by Pytnios (SF15_218)](https://petrifiedvoices.github.io/stroyno-inscriptions/html/Hermankova2020_4.html)
+
+<img width="605" height="543" alt="image" src="https://github.com/user-attachments/assets/3dcd1aff-986d-4c69-88dd-565590398992" />
 
 ## Previously published inscriptions:
 
@@ -62,9 +68,43 @@ Roman period (AD 50 - AD 399)
 ## Epidoc files: 
 In order to download the Epidoc XML files, please go to the [Github repository](https://github.com/petrifiedvoices/stroyno-inscriptions) folder ```epidoc```.
 
-## The article: 
+## Dataset citation:
+```bibtex
+@dataset{Hermankova_Stroyno_inscriptions_2020,
+author = {Heřmánková, Petra},
+doi = {10.5281/zenodo.3908271},
+license = {cc-by-sa-4.0},
+month = jun,
+title = {{Stroyno inscriptions}},
+url = {https://github.com/petrifiedvoices/stroyno-inscriptions},
+version = {1.1.0},
+year = {2020}
+}
+```
+
+## Related publications: 
+
+```bibtex
+@incollection{hermankova_epigraphic_2022,
+	address = {Prague},
+	series = {Studia {Hercynia} monographs},
+	title = {The {Epigraphic} {Finds} from {Yurta}-{Stroyno} in a {Regional} {Context}},
+	isbn = {978-80-7671-069-6},
+	url = {http://hdl.handle.net/20.500.11956/172822},
+	number = {2},
+	booktitle = {The {Yurta}-{Stroyno} {Archaeological} {Project}: {Studies} on the {Roman} {Rural} {Settlement} in {Thrace}},
+	publisher = {Charles University, Faculty of Arts},
+	author = {Heřmánková, Petra},
+	editor = {Tušlová, Petra and Weissová, Barbora and Bakardzhiev, Stefan},
+	year = {2022},
+	pages = {118--132},
+}
+```
+
 The full article discussing the epigraphic finds can be accessed at [here](https://dspace.cuni.cz/bitstream/handle/20.500.11956/172822/YURTA_STROYNO_SHM2_web.pdf?sequence=1) as part of the volume Tušlová, P., Weissová, B., Bakardzhiev, S. (Eds.). 2022: _'The Yurta-Stroyno Archaeological Project: Studies on the Roman Rural Settlement in Thrace'_. Prague.
 
-## Contact the author:
-petra.hermankova@cas.au.dk
+
+## License:
+[CC-BY-SA-4.0](https://github.com/petrifiedvoices/stroyno-inscriptions/blob/master/LICENSE.md)
+
 
