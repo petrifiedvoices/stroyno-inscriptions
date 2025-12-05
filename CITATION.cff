@@ -13,11 +13,13 @@ title: "Stroyno inscriptions"
 version: 1.1.0
 doi: 10.5281/zenodo.3908271
 date-released: 2020-06-25
-abstract: "This repository contains scripts for accessing, extracting and transforming epigraphic datasets from the Epigraphic Database Clauss-Slaby (http://www.manfredclauss.de/) in a reproducible manner."
+abstract: "Digital Supplement to the article 'Heřmánková, Petra. 2022. “The Epigraphic Finds from Yurta-Stroyno in a Regional Context.” In The Yurta-Stroyno Archaeological Project: Studies on the Roman Rural Settlement in Thrace, edited by Petra Tušlová, Barbora Weissová, and Stefan Bakardzhiev, 118–32. Studia Hercynia Monographs 2. Prague: Charles University, Faculty of Arts."
 keywords:
   - "digital epigraphy"
-  - "Latin inscriptions"
+  - "Latin and Greek inscriptions"
   - "digital history"
   - "Roman history"
   - "dataset"
   - "Epidoc XML"
+  - "Roman Thrace"
+  - "epigraphic corpus"
